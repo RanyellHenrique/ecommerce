@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/hr-oauth/pom.xml" />
         <option value="$PROJECT_DIR$/hr-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/hr-gateway-zuul/pom.xml" />
       </list>
     </option>
   </component>
