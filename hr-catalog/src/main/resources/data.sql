@@ -1,0 +1,2 @@
+INSERT INTO tb_product(name, price, description, img_url) VALUES ('PC Gamer', 3.500, 'PC gamer i7 8GB', 'www.image.jpg');
+INSERT INTO tb_product(name, price, description, img_url) VALUES ('Notebook', 3.000, 'Notebook samsung i5 8GB', 'www.image.jpg');
